@@ -135,7 +135,7 @@ Loan-Analytics-Project/
 ├── train_loan.csv
 ├── test_loan.csv
 ├── loan_prediction.ipynb
-├── logistic.csv
+├── submission.csv
 └── README.md
 ```
 
